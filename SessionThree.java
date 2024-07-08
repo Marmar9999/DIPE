@@ -1,5 +1,5 @@
 import java.util.*;
-class Main{
+class SessionThree{
     public static void main(String[] args){
  /    //Print from 1 to 10: 
         System.out.println("1) Print from 1 to 10: ");
